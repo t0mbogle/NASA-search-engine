@@ -1,8 +1,21 @@
-.input {
+.search-input {
     border: solid 1px rgb(162, 161, 161);
     border-radius: 50px;
-    width: 30%;
+    width: 25%;
     font-size: 20px;
     padding: 5px 12px 5px 12px;
-    margin: auto;
+}
+
+.search-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.search-button {
+    background-color: #c12209;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 5px;
 }
