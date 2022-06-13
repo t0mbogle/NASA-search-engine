@@ -13,9 +13,10 @@
 }
 
 .search-button {
-    background-color: #c12209;
+    background-color: #c9260d;
     color: white;
     font-weight: bold;
+    border-color: #c9260d;
     border-radius: 5px;
     margin-left: 5px;
 }
