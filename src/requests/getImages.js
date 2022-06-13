@@ -16,8 +16,8 @@ const getImages = (query) => {
         })
         .catch((err) => {
           console.log(err)
-        })
+        });
     }
-}
+};
 
 export default getImages;
