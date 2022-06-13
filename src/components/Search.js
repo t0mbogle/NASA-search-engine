@@ -5,9 +5,10 @@ import getImages from "../requests/getImages";
 const Search = ({ setSearchResults }) => {
   const [value, setValue] = useState();
 
-  const handleSubmit = (event) => 
+  const handleSubmit = (event) => {
     event.preventDefault();
     setSearchResults(getImages(value));
+  }
 
     return(
         <>

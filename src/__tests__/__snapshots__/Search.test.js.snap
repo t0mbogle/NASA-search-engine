@@ -7,14 +7,14 @@ exports[`Search renders correctly 1`] = `
   >
     <input
       class="search-input"
-      placeholder="search away :)"
+      placeholder="search away"
       type="text"
     />
     <button
       class="search-button"
       type="submit"
     >
-      Search
+      Go!
     </button>
   </form>
 </DocumentFragment>
