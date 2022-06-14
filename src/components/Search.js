@@ -15,7 +15,7 @@ const Search = ({ setSearchResults }) => {
         <form className="search-form" onSubmit={handleSubmit}>
           <input type="text" 
             className="search-input" 
-            placeholder="search away" 
+            placeholder="Search space" 
             onChange={(event) => setValue(event.target.value)} />
           <button 
             type="submit" 

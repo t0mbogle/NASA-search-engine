@@ -1,9 +1,19 @@
+.search-title {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
 .search-results {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .card-name {
-    max-width: 30%;
+    margin: 5px;
+    border-radius: 7px;
+    height: auto;
+    width: auto;
+    max-height: 225px;
+    max-width: 300px;
 }

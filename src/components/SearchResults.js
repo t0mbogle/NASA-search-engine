@@ -10,8 +10,8 @@ const SearchResults = ({ results }) => {
 
     return(
       <>
+        <p className="search-title">Search Results:</p>
         <div className="search-results">
-          <p>Search Results</p>
           {results.map((image) => (
             <img className="card-name" src={image} alt="space-pic" />
           ))}
