@@ -2,16 +2,23 @@
 
 exports[`SearchResults renders correctly 1`] = `
 <DocumentFragment>
+  <p
+    class="success-search"
+  >
+    Search Results:
+  </p>
   <div
     class="search-results"
   >
-    <p>
-      Search Results
-    </p>
     <img
-      alt="space-pic"
+      alt="spaceImage"
       class="card-name"
-      src="https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+      src="https://images-assets.nasa.gov/image/PIA03606/PIA03606~thumb.jpg"
+    />
+    <img
+      alt="spaceImage"
+      class="card-name"
+      src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000053/GSFC_20171208_Archive_e000053~thumb.jpg"
     />
   </div>
 </DocumentFragment>

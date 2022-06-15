@@ -7,7 +7,7 @@ exports[`Search renders correctly 1`] = `
   >
     <input
       class="search-input"
-      placeholder="search away"
+      placeholder="Search space"
       type="text"
     />
     <button

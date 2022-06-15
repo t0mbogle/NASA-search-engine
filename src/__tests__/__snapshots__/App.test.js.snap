@@ -15,7 +15,7 @@ exports[`App renders correctly 1`] = `
     >
       <input
         class="search-input"
-        placeholder="search away"
+        placeholder="Search space"
         type="text"
       />
       <button
@@ -25,18 +25,11 @@ exports[`App renders correctly 1`] = `
         Go!
       </button>
     </form>
-    <div
-      class="search-results"
+    <p
+      class="no-search"
     >
-      <p>
-        Search Results
-      </p>
-      <img
-        alt="space-pic"
-        class="card-name"
-        src="https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
-      />
-    </div>
+      No Results
+    </p>
   </div>
 </DocumentFragment>
 `;
