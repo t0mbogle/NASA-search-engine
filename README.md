@@ -13,9 +13,10 @@ This application was made with React and NASAs public API to build a search engi
 ## Screenshots
 
 - Desktop view
-![screenshot](/src/assets/Screenshot%202022-06-15%20at%2016.21.49.png "Desktop view of application")
+![screenshot](/src/assets/desktop_Screenshot.png "Desktop view of application")
 
 - Mobile view (coming soon)
+![screenshot](/src/assets/mobile_screenshot.png "Mobile view of application")
 
 ## Instructions for running the app
 

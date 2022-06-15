@@ -15,7 +15,7 @@ exports[`App renders correctly 1`] = `
     >
       <input
         class="search-input"
-        placeholder="Search space"
+        placeholder="Search space..."
         type="text"
       />
       <button
@@ -28,7 +28,7 @@ exports[`App renders correctly 1`] = `
     <p
       class="no-search"
     >
-      No Results
+      No Results found!
     </p>
   </div>
 </DocumentFragment>
