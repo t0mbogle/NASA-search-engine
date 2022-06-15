@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const SearchResults = ({ results }) => {
   if(!results.length) {
-    return(<p className="no-search">No Results</p>);
+    return(<p className="no-search">No Results found!</p>);
     // If results/searchResults prop has a length map over it 
     // and only return the URL of those mapped images, from the getImages function
   } else {

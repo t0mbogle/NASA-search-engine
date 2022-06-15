@@ -36,3 +36,16 @@
     border: solid 1px #b41b1b;
     background-color: #b41b1b;
 }
+
+@media screen and (max-width: 480px) {
+    .search-input {
+        width: 40%;
+        height: 20px; /* same as button with 6px of padding top and bottom */
+        font-size: 16px;
+    }
+    .search-button {
+        font-size: 16px;
+        height: 32px;
+        padding: 0px 10px 0px 10px;
+    }
+}

@@ -1,12 +1,9 @@
 .no-search {
     font-size: 24px;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .success-search {
-    font-size: 18px;
-    margin-left: 20px;
     text-align: center;
     font-size: 24px;
 }
@@ -24,4 +21,19 @@
     width: auto;
     max-height: 225px;
     max-width: 300px;
+}
+
+@media screen and (max-width: 480px) {
+    .no-search {
+        font-size: 20px;
+    }
+    .success-search {
+        font-size: 18px;
+        margin: 10px 0px 10px 0px;
+    }
+    .card-name {
+        width: 150px;
+        height: 112px;
+        margin: 3px;
+    } 
 }
