@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# NASA API search engine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application was made with React and NASAs public API to build a search engine where users are presented with related images to a keyword search that has been made. This app has been made with the 'create-react-app' environment setup.
 
-## Available Scripts
+## Concepts covered and Software used
 
-In the project directory, you can run:
+- Built using (React)
+- Testing utilities (Jest, React Testing Library)
+- Additional packages (Axios, PropTypes)
+- External data (NASAs public API)
+- UI design (CSS)
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Mobile view
+- Desktop view
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instructions for running the app
 
-### `npm test`
+*Please fork, then clone this repo if you wish to run it on your localhost.*
+- `npm start` can be ran in the terminal to run the app on your localhost
+- `npm test` can be ran in the terminal to run all of the tests for this application or `npm test <filePath>` to run a specific testing suite
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Author and Acknowledgements
 
-### `npm run build`
+Functionality of application is from the software engineering course by Manchester Codes. Additional styling has been implemented by myself.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Status
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project may receive updates in the future. If given more time to work on I would add overlay descriptions for all images when hovering over them. An image or video on the landing page to make it more visually appealing. Also, when an image is clicked it could bring up an overlay and enlarge that specific image with a caption.
