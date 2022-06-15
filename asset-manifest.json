@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NASA-search-engine/static/css/main.64cda032.css",
+    "main.js": "/NASA-search-engine/static/js/main.cc49674b.js",
+    "static/js/787.742a46a7.chunk.js": "/NASA-search-engine/static/js/787.742a46a7.chunk.js",
+    "index.html": "/NASA-search-engine/index.html",
+    "main.64cda032.css.map": "/NASA-search-engine/static/css/main.64cda032.css.map",
+    "main.cc49674b.js.map": "/NASA-search-engine/static/js/main.cc49674b.js.map",
+    "787.742a46a7.chunk.js.map": "/NASA-search-engine/static/js/787.742a46a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cda032.css",
+    "static/js/main.cc49674b.js"
+  ]
+}
