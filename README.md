@@ -1,10 +1,10 @@
-# NASA API search engine
+# NASA search engine
 
 This application was made with React and NASAs public API to build a search engine where users are presented with related images to a keyword search that has been made. This app has been made with the 'create-react-app' environment setup.
 
 ## Concepts covered and Software used
 
-- Built using (React)
+- Built using (React, including; hooks, props, conditional rendering) 
 - Testing utilities (Jest, React Testing Library)
 - Additional packages (Axios, PropTypes)
 - External data (NASAs public API)
@@ -12,8 +12,10 @@ This application was made with React and NASAs public API to build a search engi
 
 ## Screenshots
 
-- Mobile view
 - Desktop view
+![screenshot](/src/assets/Screenshot%202022-06-15%20at%2016.21.49.png "Desktop view of application")
+
+- Mobile view (coming soon)
 
 ## Instructions for running the app
 
