@@ -1,5 +1,5 @@
 .no-search {
-    font-size: 20px;
+    font-size: 24px;
     display: flex;
     justify-content: center;
 }
@@ -7,6 +7,8 @@
 .success-search {
     font-size: 18px;
     margin-left: 20px;
+    text-align: center;
+    font-size: 24px;
 }
 
 .search-results {
