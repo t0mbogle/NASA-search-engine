@@ -20,7 +20,7 @@ This application was made with React and NASAs public API to build a search engi
 
 ## Instructions for running the app
 
-*Please fork, then clone this repo if you wish to run it on your localhost.*
+*Please fork, then clone this repo if you wish to run it on your localhost*
 - `npm start` can be ran in the terminal to run the app on your localhost
 - `npm test` can be ran in the terminal to run all of the tests for this application or `npm test <filePath>` to run a specific testing suite
 
